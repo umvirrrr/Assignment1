@@ -18,8 +18,10 @@ Brand A Smart Bulb | Power Usage: 12W
 Brand B Smart Lock | Battery Consumption: 25%
 ```
 
+### Execution Screenshot
+![Program Output](screenshots/program_output.png)
 
 ## UML Diagram
 The following diagram shows the Abstract Factory and Factory Method design:
 
-![UML Diagram](DesignPatternsUML.png)
+![UML Diagram](UML.png)
