@@ -1,4 +1,0 @@
-BrandABulb=12
-BrandALock=20
-BrandBBulb=15
-BrandBLock=25
